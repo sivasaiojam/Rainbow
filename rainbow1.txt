@@ -6,3 +6,4 @@ Green
 Yellow
 Orange
 Red
+A unicorn is a an animal which seems to be a horse.
